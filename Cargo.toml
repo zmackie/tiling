@@ -1,0 +1,11 @@
+[package]
+name = "tiling"
+version = "0.1.0"
+authors = ["Zander Mackie <zmackie@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nannou = "0.16.0"
+nannou_audio = "0.16.0"
