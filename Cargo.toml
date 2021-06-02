@@ -8,4 +8,3 @@ edition = "2018"
 
 [dependencies]
 nannou = "0.16.0"
-nannou_audio = "0.16.0"
